@@ -14,8 +14,9 @@ A comparison table for revising projects
 | Online Documentation  | - | X | X |
 | User friendly Documentation  | - | X | X |
 | Standalone Executable  | - | - | X |
-| Help manual  | - | - | X |
+| User Manual  | - | - | X |
 | Build Scripts  | - | - | X |
 | Developer manual  | - | - | X |
 | Issues open vs closed  | - | X | X |
 | Responsiveness  | - | X | X |
+| Developer Forum  | - | - | X |
