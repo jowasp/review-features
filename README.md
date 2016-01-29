@@ -26,3 +26,5 @@ A comparison table for revising projects Code/Tools Criteria
 | Beta Release  | N/A | X | N/A |
 | Production Release  | N/A | N/A | X |
 | Unit/Test cases  | - | - | X |
+| Active mailing list  | - | X | X |
+| External References  | - | - | X |
