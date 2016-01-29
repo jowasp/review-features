@@ -1,5 +1,5 @@
 # review-features
-A comparison table for revising projects
+A comparison table for revising projects Code/Tools Criteria
 
 | Requirement   |      Incubator     |  Lab | Flagship |
 |---------------|:------------------:|-----:|---------:|
@@ -8,7 +8,7 @@ A comparison table for revising projects
 | > + 1 contributor | - | X | X |
 | Open Source License | X | X | X |
 | Open Source Repository  | X | X | X |
-| Outlined Roadmap  | - | X | X |
+| Outlined Roadmap  | X | X | X |
 | Active leader  | - | X | X |
 | Bug Tracking system  | - | X | X |
 | Online Documentation  | - | X | X |
