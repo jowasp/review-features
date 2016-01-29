@@ -17,7 +17,7 @@ A comparison table for revising projects
 | User Manual  | - | - | X |
 | Build Scripts  | - | - | X |
 | Developer manual  | - | - | X |
-| Issues open vs closed  | - | X | X |
-| Responsiveness  | - | X | X |
+| #Issues open vs closed  | - | X | X |
+| Responsiveness leadership  | - | X | X |
 | Developer Forum  | - | - | X |
 | Innovative approach  | - | - | X |
