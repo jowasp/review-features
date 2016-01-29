@@ -12,8 +12,8 @@ A comparison table for revising projects Code/Tools Criteria
 | Outlined Roadmap  | X | X | X |
 | Active leader  | - | X | X |
 | Bug Tracking system  | X | X | X |
-| Online Documentation  | - | X | X |
-| User Friendly Documentation  | - | X | X |
+| Online Documentation  | X | X | X |
+| User Friendly Documentation  | - | - | X |
 | Standalone Executable  | - | - | X |
 | Embedded User Manual  | - | - | X |
 | Build Scripts  | - | - | X |
