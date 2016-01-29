@@ -22,9 +22,9 @@ A comparison table for revising projects Code/Tools Criteria
 | Developer Forum  | - | - | X |
 | Innovative approach  | - | - | X |
 | Versioning control  | - | X | X |
-| Alpha Release  | X | N/A | N/A |
-| Beta Release  | N/A | X | N/A |
-| Production Release  | N/A | N/A | X |
+| Alpha Release  | X | - | - |
+| Beta Release  | - | X | - |
+| Production Release  | - | - | X |
 | Unit/Test cases  | - | - | X |
 | Active mailing list  | - | X | X |
 | External References  | - | - | X |
