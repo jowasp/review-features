@@ -5,4 +5,6 @@ A comparison table for revising projects
 |---------------|:------------------:|-----:|---------:|
 | commits last 6 months|  X | X | X |
 | Wiki page updated | X | X | X |
-| > 1 contributor | X | X | X |
+| > 1 contributor | - | X | X |
+| Open Source License | X | X | X |
+| Open Source License | X | X | X |
