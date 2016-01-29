@@ -20,3 +20,4 @@ A comparison table for revising projects
 | Issues open vs closed  | - | X | X |
 | Responsiveness  | - | X | X |
 | Developer Forum  | - | - | X |
+| Innovative approach  | - | - | X |
