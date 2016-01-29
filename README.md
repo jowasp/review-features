@@ -8,10 +8,12 @@ A comparison table for revising projects
 | > + 1 contributor | - | X | X |
 | Open Source License | X | X | X |
 | Open Source Repository  | X | X | X |
-| Updated Roadmap  | - | X | X |
+| Outlined Roadmap  | - | X | X |
 | Active leader  | - | X | X |
 | Bug Tracking system  | - | X | X |
 | Online Documentation  | - | X | X |
 | User friendly Documentation  | - | X | X |
-| Automatic Installer  | - | - | X |
+| Standalone Executable  | - | - | X |
 | Help manual  | - | - | X |
+| Build Scripts  | - | - | X |
+| Developer manual  | - | - | X |
