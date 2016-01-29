@@ -22,3 +22,6 @@ A comparison table for revising projects Code/Tools Criteria
 | Developer Forum  | - | - | X |
 | Innovative approach  | - | - | X |
 | Versioning control  | - | X | X |
+| Alpha Release  | X | N/A | N/A |
+| Beta Release  | N/A | X | N/A |
+| Production Release  | N/A | N/A | X |
