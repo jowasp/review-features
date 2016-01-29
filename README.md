@@ -5,6 +5,7 @@ A comparison table for revising projects Code/Tools Criteria
 |---------------|:------------------:|:------------------:|:------------------:|
 | [commits last 6 months](Commits_6_months.md)|  - | X | X |
 | [Wiki page updated](Wiki-page-updated.md) | X | X | X |
+| Vendor neutral  | X | X | X |
 | > + 1 contributor | - | X | X |
 | Open Source License | X | X | X |
 | Open Source Repository  | X | X | X |
@@ -22,7 +23,7 @@ A comparison table for revising projects Code/Tools Criteria
 | Developer Forum  | - | - | X |
 | Innovative approach  | - | - | X |
 | Versioning control  | - | X | X |
-| Alpha Release  | X | - | - |
+| [Alpha Release](alpha_release.md)  | X | - | - |
 | Beta Release  | - | X | - |
 | Production Release  | - | - | X |
 | Unit/Test cases  | - | - | X |
