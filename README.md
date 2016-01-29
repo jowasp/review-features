@@ -17,3 +17,4 @@ A comparison table for revising projects
 | Help manual  | - | - | X |
 | Build Scripts  | - | - | X |
 | Developer manual  | - | - | X |
+| Issues open vs closed  | - | - | X |
