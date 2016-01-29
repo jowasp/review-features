@@ -21,3 +21,4 @@ A comparison table for revising projects Code/Tools Criteria
 | Responsiveness leadership  | - | X | X |
 | Developer Forum  | - | - | X |
 | Innovative approach  | - | - | X |
+| Versioning control  | - | X | X |
