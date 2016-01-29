@@ -25,3 +25,4 @@ A comparison table for revising projects Code/Tools Criteria
 | Alpha Release  | X | N/A | N/A |
 | Beta Release  | N/A | X | N/A |
 | Production Release  | N/A | N/A | X |
+| Unit/Test cases  | - | - | X |
