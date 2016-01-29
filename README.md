@@ -3,7 +3,7 @@ A comparison table for revising projects
 
 | Requirement   |      Incubator     |  Lab | Flagship |
 |---------------|:------------------:|-----:|---------:|
-| commits last 6 months|  - | X | X |
+| [commits last 6 months](Commits_6_months).|  - | X | X |
 | Wiki page updated | X | X | X |
 | > + 1 contributor | - | X | X |
 | Open Source License | X | X | X |
