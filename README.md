@@ -1,7 +1,7 @@
 # review-features
 A comparison table for revising projects
 
-| Tables   |      Are      |  Cool |
+| Requirement   |      Incubator     |  Lab |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
