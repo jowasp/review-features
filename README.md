@@ -12,7 +12,7 @@ A comparison table for revising projects Code/Tools Criteria
 | Open Source Repository  | X | X | X |
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X | X |
 | Active leader  | - | X | X |
-| [Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X | X |
+| [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X | X |
 | Online Documentation  | X | X | X |
 | User Friendly Documentation  | - | - | X |
 | Standalone Executable  | - | - | X |
@@ -23,7 +23,7 @@ A comparison table for revising projects Code/Tools Criteria
 | Responsiveness leadership  | - | X | X |
 | Developer Forum  | - | - | X |
 | Innovative approach  | - | - | X |
-| Versioning control  | - | X | X |
+| [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) | - | X | X |
 | [Alpha Release](alpha_release.md)  | X | - | - |
 | Beta Release  | - | X | - |
 | Production Release  | - | - | X |
