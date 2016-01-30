@@ -6,7 +6,7 @@ A comparison table for revising projects Code/Tools Criteria
 | [commits last 6 months](Commits_6_months.md)|  - | X | X |
 | [Wiki page updated](Wiki-page-updated.md) | X | X | X |
 | [Vendor neutral] (vendor_neutral.md)  | X | X | X |
-| > + 1 contributor | - | X | X |
+| [> + 1 contributor](contributors.md) | - | X | X |
 | [Open Source License](licenses.md) | X | X | X |
 | Open Source Repository  | X | X | X |
 | Outlined Roadmap  | X | X | X |
