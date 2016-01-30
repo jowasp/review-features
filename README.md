@@ -30,3 +30,5 @@ A comparison table for revising projects Code/Tools Criteria
 | Unit/Test cases  | - | - | X |
 | Active mailing list  | - | X | X |
 | External References  | - | - | X |
+| Code base > 1 year  | - | X | X |
+| Code base > 2 year  | - | X | X |
