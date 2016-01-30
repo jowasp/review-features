@@ -19,7 +19,7 @@ A comparison table for revising projects Code/Tools Criteria
 | Embedded User Manual  | - | - | X |
 | Build Scripts  | - | - | X |
 | Developer Manual  | - | - | X |
-| #Issues open vs closed  | - | X | X |
+| #Issues open vs closed  | - | - | X |
 | Responsiveness leadership  | - | X | X |
 | Developer Forum  | - | - | X |
 | Innovative approach  | - | - | X |
