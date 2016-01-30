@@ -12,7 +12,7 @@ A comparison table for revising projects Code/Tools Criteria
 | Open Source Repository  | X | X | X |
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X | X |
 | Active leader  | - | X | X |
-| Bug Tracking system  | X | X | X |
+| [Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X | X |
 | Online Documentation  | X | X | X |
 | User Friendly Documentation  | - | - | X |
 | Standalone Executable  | - | - | X |
