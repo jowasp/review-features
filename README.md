@@ -17,7 +17,7 @@ A comparison table for revising projects Code/Tools Criteria
 | User Friendly Documentation  | - | - | X |
 | Standalone Executable  | - | - | X |
 | Embedded User Manual  | - | - | X |
-| Build Scripts  | - | - | X |
+| [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | - | - | X |
 | Developer Manual  | - | - | X |
 | #Issues open vs closed  | - | - | X |
 | Responsiveness leadership  | - | X | X |
