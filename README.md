@@ -10,7 +10,7 @@ A comparison table for revising projects Code/Tools Criteria
 | [> + 1 contributor](contributors.md) | - | X | X |
 | [Open Source License](licenses.md) | X | X | X |
 | Open Source Repository  | X | X | X |
-| Outlined Roadmap  | X | X | X |
+| [Outlined Roadmap](outlined_roadmap.md)  | X | X | X |
 | Active leader  | - | X | X |
 | Bug Tracking system  | X | X | X |
 | Online Documentation  | X | X | X |
