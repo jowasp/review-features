@@ -7,7 +7,7 @@ A comparison table for revising projects Code/Tools Criteria
 | [Wiki page updated](Wiki-page-updated.md) | X | X | X |
 | [Vendor neutral] (vendor_neutral.md)  | X | X | X |
 | > + 1 contributor | - | X | X |
-| Open Source License | X | X | X |
+| [Open Source License](licenses.md) | X | X | X |
 | Open Source Repository  | X | X | X |
 | Outlined Roadmap  | X | X | X |
 | Active leader  | - | X | X |
