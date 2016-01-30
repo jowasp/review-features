@@ -1,5 +1,5 @@
 # Number of contributors
-The number of contributors provides a signal of maturity level a project has. Based on the actual number of contributors , we can evaluate the coomunity adaption of a project
+The number of contributors provides a signal of maturity level a project has. Based on the actual number of contributors , we can evaluate the community adoption of a project
 
 ##Incubators
 Most incubators will consist of 1 contributor, as this project is still in development
