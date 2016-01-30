@@ -10,7 +10,7 @@ A comparison table for revising OWASP projects Code/Tools Criteria to determine 
 | [Vendor neutral] (vendor_neutral.md)  | X | X | X |
 | [> + 1 contributor](contributors.md) | - | X | X |
 | [Open Source License](licenses.md) | X | X | X |
-| Open Source Repository  | X | X | X |
+| [Open Source Repository](https://www.openhub.net/orgs/OWASP)  | X | X | X |
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X | X |
 | Active leader  | - | X | X |
 | [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X | X |
