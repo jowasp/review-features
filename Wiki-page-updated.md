@@ -2,7 +2,7 @@
 
 For this part
 Go to the Wiki page of the project, example : https://www.owasp.org/index.php/OWASP_AppSensor_Project
-Check teh following:
+Check the following:
 
 * Description: Is there a description about the project that explains what it is?
 * License: Is there a clear description  of what type of license is used on the Main Tab?
