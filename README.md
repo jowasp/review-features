@@ -4,6 +4,7 @@ A comparison table for revising projects Code/Tools Criteria
 | Requirement   |      Incubator     |          Lab       |       Flagship     |
 |---------------|:------------------:|:------------------:|:------------------:|
 | [commits last 6 months](Commits_6_months.md)|  - | X | X |
+| [Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  - | X | X |
 | [Wiki page updated](Wiki-page-updated.md) | X | X | X |
 | [Vendor neutral] (vendor_neutral.md)  | X | X | X |
 | [> + 1 contributor](contributors.md) | - | X | X |
