@@ -1,5 +1,5 @@
 # review-features
-A comparison table for revising projects Code/Tools Criteria
+A comparison table for revising OWASP projects Code/Tools Criteria to determine their level of maturity 
 
 | Requirement   |      Incubator     |          Lab       |       Flagship     |
 |---------------|:------------------:|:------------------:|:------------------:|
