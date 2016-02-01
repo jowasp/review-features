@@ -30,6 +30,6 @@ A comparison table for revising OWASP projects Code/Tools Criteria to determine 
 | Production Release |  -  | - | - | X |
 | Unit/Test cases |  -  | - | - | X |
 | Active mailing list |  -  | - | X | X |
-| External References |  -  | - | - | X |
+| External References/Industry Recognition |  -  | - | - | X |
 | Code base > 1 year  |  - | - | X | X |
 | Code base > 2 years |  - | - | - | X |
