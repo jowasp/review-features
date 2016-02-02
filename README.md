@@ -22,7 +22,7 @@ A comparison table for revising OWASP projects Code/Tools Criteria to determine 
 | Developer Manual |  -  | - | - | X |
 | #Issues open vs closed |  -  | - | - | X |
 | Responsiveness leadership  | - | X | X |
-| Developer Forum |  -  | - | - | X |
+| Developer Community(developer.md) |  -  | - | - | X |
 | Innovative approach |  -  | - | - | X |
 | [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|  -  | - | X | X |
 | [Alpha Release](alpha_release.md)|  - | X | - | - |
