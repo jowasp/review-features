@@ -6,6 +6,9 @@ Recommended reading:
 Qualipso Project: Quality Recommendations for FLOSS development processes
 http://qualipso.icmc.usp.br/files/Quality.recommendations.for_.FLOSS_.development.processes.pdf
 
+Open Source Software Evaluation Models
+http://jose-manuel.me/wp-content/uploads/2013/06/JMLL_MTI_Thesis_I-OSSEM_C4.pdf
+
 | Requirement   |   Project Idea     |        Incubator   |          Lab       |       Flagship     |
 |---------------|:------------------:|:------------------:|:------------------:|:------------------:|
 | [commits last 6 months](Commits_6_months.md)|  - |  - | X | X |
