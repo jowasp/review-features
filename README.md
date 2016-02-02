@@ -9,6 +9,10 @@ http://qualipso.icmc.usp.br/files/Quality.recommendations.for_.FLOSS_.developmen
 Open Source Software Evaluation Models
 http://jose-manuel.me/wp-content/uploads/2013/06/JMLL_MTI_Thesis_I-OSSEM_C4.pdf
 
+Producing Open Source Software: How to Run a Successful Free Software Project
+Karl Fogel
+http://producingoss.com/en/producingoss.html
+
 | Requirement   |   Project Idea     |        Incubator   |          Lab       |       Flagship     |
 |---------------|:------------------:|:------------------:|:------------------:|:------------------:|
 | [commits last 6 months](Commits_6_months.md)|  - |  - | X | X |
