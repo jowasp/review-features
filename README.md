@@ -2,6 +2,10 @@
 A comparison table for revising OWASP projects Code/Tools Criteria to determine their level of maturity 
 (IN PROGRESS)
 
+Recommended reading:
+Qualipso Project: Quality Recommendations for FLOSS development processes
+http://qualipso.icmc.usp.br/files/Quality.recommendations.for_.FLOSS_.development.processes.pdf
+
 | Requirement   |   Project Idea     |        Incubator   |          Lab       |       Flagship     |
 |---------------|:------------------:|:------------------:|:------------------:|:------------------:|
 | [commits last 6 months](Commits_6_months.md)|  - |  - | X | X |
