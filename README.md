@@ -22,7 +22,7 @@ http://qualipso.icmc.usp.br/files/Quality.recommendations.for_.FLOSS_.developmen
 | User Friendly Documentation |  -  | - | - | X |
 | Standalone Executable |  -  | - | - | X |
 | Embedded User Manual |  -  | - | - | X |
-| [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | - | - | X |
+| [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | - | - | X | X |
 | Developer Manual |  -  | - | - | X |
 | #Issues open vs closed |  -  | - | - | X |
 | Responsiveness leadership  | - | X | X |
