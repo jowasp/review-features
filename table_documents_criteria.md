@@ -20,4 +20,4 @@ Requiremements for Documentation Projects per Category
 | [Accuracy](document_criteria.md)   |  -  | - | X | X |
 | [Grammar](document_criteria.md)   |  -  | - | X | X |
 | Content Traffic  |  -  | - | X | X |
-| External References/Industry Recognition |  -  | - | - | X |
+| [External References/Industry Recognition](industry_recognition.md) |  -  | - | - | X |
