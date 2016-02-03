@@ -20,5 +20,6 @@ Requiremements for Documentation Projects per Category
 | Relevance to the subject  |  -  | - | X | X |
 | Credibility  |  -  | - | X | X |
 | Accuracy  |  -  | - | X | X |
+| Grammar  |  -  | - | X | X |
 | Content Traffic  |  -  | - | X | X |
 | External References/Industry Recognition |  -  | - | - | X |
