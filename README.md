@@ -3,8 +3,9 @@ The following table provides an overview of the required features that determine
 
 The 'X' simbolize  a required requirement for that category.'-' Symbolizes that requirement is not needed for that category
 
-##The OWASP Project Lifecycle is broken down into the following stages:
+##The OWASP Project Lifecycle:
 
+is broken down into the following stages
 ###Project Idea:
 
 During this phase, a potential project leader promotes his project idea without a define roadmap or plan. No requirements are needed during this phase
