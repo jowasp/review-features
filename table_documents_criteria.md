@@ -15,9 +15,9 @@ Requiremements for Documentation Projects per Category
 | [Alpha Release](alpha_release.md)|  - | X | - | - |
 | Beta Release |  -  | - | X | - |
 | Final Release |  -  | - | - | X |
-| Accessibility/Publicly Available |  - | X | X | X |
-|[ Originality(document_criteria.md)  |  -  | - | X | X |
-| Accuracy  |  -  | - | X | X |
-| Grammar  |  -  | - | X | X |
+| [Accessibility/Publicly Available](document_criteria.md)  |  - | X | X | X |
+|[ Originality](document_criteria.md)  |  -  | - | X | X |
+| [Accuracy](document_criteria.md)   |  -  | - | X | X |
+| [Grammar](document_criteria.md)   |  -  | - | X | X |
 | Content Traffic  |  -  | - | X | X |
 | External References/Industry Recognition |  -  | - | - | X |
