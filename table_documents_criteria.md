@@ -21,5 +21,6 @@ Requiremements for Documentation Projects per Category
 | Credibility  |  -  | - | X | X |
 | Accuracy  |  -  | - | X | X |
 | Grammar  |  -  | - | X | X |
+| Plagiarism free  |  -  | X | X | X |
 | Content Traffic  |  -  | - | X | X |
 | External References/Industry Recognition |  -  | - | - | X |
