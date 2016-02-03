@@ -11,16 +11,13 @@ Requiremements for Documentation Projects per Category
 | [Outlined Roadmap](outlined_roadmap.md)  |  - | X | X | X |
 | Active mailing list |  -  | - | X | X |
 | Active leader |  -  | - | X | X |
-| Accessibility/Publicly Available |  - | X | X | X |
 | Versioning control |  -  | - | X | X |
 | [Alpha Release](alpha_release.md)|  - | X | - | - |
 | Beta Release |  -  | - | X | - |
 | Final Release |  -  | - | - | X |
-| Relevance to the audience  |  -  | - | X | X |
-| Relevance to the subject  |  -  | - | X | X |
-| Credibility  |  -  | - | X | X |
+| Accessibility/Publicly Available |  - | X | X | X |
+|[ Originality(document_criteria.md)  |  -  | - | X | X |
 | Accuracy  |  -  | - | X | X |
 | Grammar  |  -  | - | X | X |
-| Plagiarism free  |  -  | X | X | X |
 | Content Traffic  |  -  | - | X | X |
 | External References/Industry Recognition |  -  | - | - | X |
