@@ -9,7 +9,9 @@ This can also be done with tools such as “PlagTracker”. We can determine a m
 #Accessibility: 
 
 How easy and an accessible is the document? Also with Accessibility we mean which projects have a “mailing list” responding to users or feedback form for readers to provide their opinion regarding the document and answer to their questions. An extra point for accessibility will be considered if Project leaders have placed their content in containers such as repositories or wikis to facilitated collaboration among authors and update their information.
-Open Source: Since everything OWASP puts out there is free and open source, it is important to validate that all of our documentation projects live up to this standard. This means not only slapping an open source license on the document, but also verifying that all of the materials that were used to produce the document were properly licensed as well (nothing proprietary).
+
+#Open Source: 
+Since everything OWASP puts out there is free and open source, it is important to validate that all of our documentation projects live up to this standard. This means not only slapping an open source license on the document, but also verifying that all of the materials that were used to produce the document were properly licensed as well (nothing proprietary).
 
 
 #Publicly Available: 
