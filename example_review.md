@@ -23,7 +23,7 @@ Project seems to comply with all the criteria to become LAB
 | Innovative approach |  - | X | NOT REQUIRED FOR LAB |
 | [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: through maven central: v239 at Maven Central |
 | Production Release | - | X | YES: Code seems very mature (code base of 4 years, see openhub for more info)|
-| Use of Unit/Test cases | - | X | NOT FOUND: project leader can provide more info on this |
+| Use of Unit/Test cases | - | X | NOT FOUND/NOT REQUIRED FOR LAB: project leader can provide more info on this |
 | Active mailing list | X | X | YES: mailing list has 99 posting topics over a period of 2 years |
 | [External References/Industry Recognition](industry_recognition.md) | X | X | YES:MENTIONED IN http://www.amazon.com/Iron-Clad-Java-Building-Secure-Applications/dp/0071835881:"The OWASP Java HTML Sanitizer provides untrusted HTML sanitization. This library is both high performance and low resource utilization. Authored by Mike Samuel. https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project |
 
