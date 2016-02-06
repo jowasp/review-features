@@ -1,7 +1,11 @@
 Evaluation for Java HTML sanitizer project
 INCUBATOR TO LAB:
 Conclusion: Project seems to comply with all the criteria to become LAB
-
+<style>
+  .markdown-body table td {
+    font-size: 10px !important;
+  }
+</style>
 
 | Requirement   |   Project Idea     |        Incubator   |          Lab       |       Flagship     |     Reason       |
 |---------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
