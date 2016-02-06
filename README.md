@@ -39,13 +39,13 @@ http://producingoss.com/en/producingoss.html
 |---------------|:------------------:|:------------------:|:------------------:|:------------------:|
 | [Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  - |  - | X | X |
 | [Wiki page updated](Wiki-page-updated.md) |  - | X | X | X |
-| [Vendor neutral] (vendor_neutral.md)  |  - | X | X | X |
+| [Vendor neutral](vendor_neutral.md)  |  - | X | X | X |
 | [> + 1 contributor](contributors.md) |  - | - | X | X |
 | [Open Source License](licenses.md) |  - | X | X | X |
 | [Open Source Repository](https://www.openhub.net/orgs/OWASP)  |  - | X | X | X |
 | [Outlined Roadmap](outlined_roadmap.md)  |  - | X | X | X |
 | [Active leader](active_leader.md) |  -  | - | X | X |
-| [Standalone Executable/installer-only Tool projects |  -  | - | X | X |
+| Standalone Executable/installer-only(Tool projects) |  -  | - | X | X |
 | [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  |  - | X | X | X |
 | [Online Documentation](onlinedocumentation.md) |  -  | X | X | X |
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | - | - | X | X |
@@ -57,4 +57,4 @@ http://producingoss.com/en/producingoss.html
 | Production Release |  -  | - | - | X |
 | Use of Unit/Test cases |  -  | - | - | X |
 | Active mailing list |  -  | - | X | X |
-| [External References/Industry Recognition](industry_recognition.md) |  -  | - | - | X |
+| [External References/Industry Recognition](industry_recognition.md) |  -  | - | X | X |
