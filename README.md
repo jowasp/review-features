@@ -57,6 +57,6 @@ http://producingoss.com/en/producingoss.html
 | [Alpha Release](alpha_release.md)|  - | X | - | - |
 | Beta Release |  -  | - | X | - |
 | Production Release |  -  | - | - | X |
-| Unit/Test cases |  -  | - | - | X |
+| Use of Unit/Test cases |  -  | - | - | X |
 | Active mailing list |  -  | - | X | X |
 | External References/Industry Recognition |  -  | - | - | X |
