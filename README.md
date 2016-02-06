@@ -63,5 +63,3 @@ http://producingoss.com/en/producingoss.html
 | Unit/Test cases |  -  | - | - | X |
 | Active mailing list |  -  | - | X | X |
 | External References/Industry Recognition |  -  | - | - | X |
-| Code base > 1 year  |  - | - | X | X |
-| Code base > 2 years |  - | - | - | X |
