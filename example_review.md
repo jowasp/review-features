@@ -16,12 +16,12 @@ Project seems to comply with all the criteria to become LAB
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X |YES: https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project#tab=Roadmap Is quite simple but the project is quite mature based on the code analysis by Openhub
 | [Active leader](active_leader.md) | X | X |YES:promotion through conferesebces such as APPSEC, Book author http://www.amazon.com/Iron-Clad-Java-Building-Secure-Applications/dp/0071835881 with activities ansd views every month : https://groups.google.com/forum/#!forum/owasp-java-html-sanitizer-support |
 | Standalone Executable/installer-only(Tool projects) | X | X |YES: this is a code, not required
-| [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  |  - | X | X | X |YES: https://github.com/owasp/java-html-sanitizer/issues (15 issues open/40 closed)
-| [Online Documentation](onlinedocumentation.md) | X | X | YES:https://github.com/OWASP/java-html-sanitizer/blob/master/docs/getting_started.md
-| [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: through maven (maven project: https://github.com/OWASP/java-html-sanitizer/blob/master/pom.xml)
+| [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X |YES: https://github.com/owasp/java-html-sanitizer/issues (15 issues open/40 closed)|
+| [Online Documentation](onlinedocumentation.md) | X | X | YES:https://github.com/OWASP/java-html-sanitizer/blob/master/docs/getting_started.md|
+| [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: through maven (maven project: https://github.com/OWASP/java-html-sanitizer/blob/master/pom.xml)|
 | [Developer Community](developer.md) | - | X | NOT FOUND |
 | Innovative approach |  - | X | NOT FOUND |
-| [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|  -  | - | X | X |YES: through maven central: v239 at Maven Central
+| [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: through maven central: v239 at Maven Central |
 | Production Release | - | X | YES: Code seems very mature (code base of 4 years, see openhub for more info)|
 | Use of Unit/Test cases | - | X | NOT FOUND: project leader can provide more info on this |
 | Active mailing list | X | X | YES: mailing list has 99 posting topics over a period of 2 years |
