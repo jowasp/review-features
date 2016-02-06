@@ -44,7 +44,7 @@ http://producingoss.com/en/producingoss.html
 | [Open Source License](licenses.md) |  - | X | X | X |
 | [Open Source Repository](https://www.openhub.net/orgs/OWASP)  |  - | X | X | X |
 | [Outlined Roadmap](outlined_roadmap.md)  |  - | X | X | X |
-| Active leader |  -  | - | X | X |
+| [Active leader](active_leader.md) |  -  | - | X | X |
 | Standalone Executable (only Tool projects) |  -  | - | X | X |
 | [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  |  - | X | X | X |
 | [Online Documentation](onlinedocumentation.md) |  -  | X | X | X |
