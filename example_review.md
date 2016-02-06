@@ -1,7 +1,7 @@
 ##Evaluation for Java HTML sanitizer project
-INCUBATOR TO LAB:
+Graduation Type: INCUBATOR TO LAB
+Reviewer: John Doe
 Conclusion: 
-
 Project seems to comply with all the criteria to become LAB
 
 
