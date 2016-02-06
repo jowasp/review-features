@@ -19,8 +19,8 @@ Project seems to comply with all the criteria to become LAB
 | [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X |YES: https://github.com/owasp/java-html-sanitizer/issues (15 issues open/40 closed)|
 | [Online Documentation](onlinedocumentation.md) | X | X | YES:https://github.com/OWASP/java-html-sanitizer/blob/master/docs/getting_started.md|
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: through maven (maven project: https://github.com/OWASP/java-html-sanitizer/blob/master/pom.xml)|
-| [Developer Community](developer.md) | - | X | NOT FOUND |
-| Innovative approach |  - | X | NOT FOUND |
+| [Developer Community](developer.md) | - | X | NOT REQUIRED FOR LAB |
+| Innovative approach |  - | X | NOT REQUIRED FOR LAB |
 | [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: through maven central: v239 at Maven Central |
 | Production Release | - | X | YES: Code seems very mature (code base of 4 years, see openhub for more info)|
 | Use of Unit/Test cases | - | X | NOT FOUND: project leader can provide more info on this |
