@@ -7,7 +7,7 @@ Project seems to comply with all the criteria to become LAB
 
 | Requirement   |           Lab       |       Flagship     |     Reason       |
 |---------------|:------------------:|:------------------:|:------------------:|
-| [Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  X | X |has had 284 commits made by 6 contributors  representing 65,100 lines of code/is mostly written in JavaScript with a very low number of source code comments has a codebase with a long source history maintained by a average size development team with increasing Y-O-Y commits/took an estimated 16 years of effort (COCOMO model) /starting with its first commit in March, 2011 ending with its most recent commit 3 days ago|
+| [Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  X | X |https://www.openhub.net/p/owasp-java-html-sanitizer: has had 284 commits made by 6 contributors  representing 65,100 lines of code/is mostly written in JavaScript with a very low number of source code comments has a codebase with a long source history maintained by a average size development team with increasing Y-O-Y commits/took an estimated 16 years of effort (COCOMO model) /starting with its first commit in March, 2011 ending with its most recent commit 3 days ago|
 | [Wiki page updated](Wiki-page-updated.md) | X | X | Yes: the page has all the requirements expected for an updated wiki page |
 | [Vendor neutral](vendor_neutral.md)  | X | X |YES: No logo appears on their wiki page|
 | [> + 1 contributor](contributors.md) |  X | X |YES: It has 6 contributors(see openhub: https://www.openhub.net/p/owasp-java-html-sanitizer |
