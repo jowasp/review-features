@@ -57,4 +57,4 @@ http://producingoss.com/en/producingoss.html
 | Production Release |  -  | - | - | X |
 | Use of Unit/Test cases |  -  | - | - | X |
 | Active mailing list |  -  | - | X | X |
-| External References/Industry Recognition |  -  | - | - | X |
+| [External References/Industry Recognition](industry_recognition.md) |  -  | - | - | X |
