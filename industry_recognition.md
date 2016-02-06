@@ -3,4 +3,5 @@ In order to consider a project flasghip, industry recognition is part of the req
 * Awards
 * References in articles, newspaper,  books or social media
 * Mentions by recognized figures in the industry
-* Participation in major Security conferences
+* Participation in Major Security conferences (Blackhat, APPSEC, DefCon, BSides for example)
+
