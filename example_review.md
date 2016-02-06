@@ -12,9 +12,9 @@ Project seems to comply with all the criteria to become LAB
 | [Vendor neutral](vendor_neutral.md)  | X | X |YES: No logo appears on their wiki page|
 | [> + 1 contributor](contributors.md) |  X | X |YES: It has 6 contributors(see openhub: https://www.openhub.net/p/owasp-java-html-sanitizer |
 | [Open Source License](licenses.md) | X | X |YES: Apache 2 License and the New BSD License (displayed on wiki page)|
-| [Open Source Repository](https://www.openhub.net/orgs/OWASP)  |  - | X | X | X |YES: https://github.com/owasp/java-html-sanitizer|
+| [Open Source Repository](https://www.openhub.net/orgs/OWASP)| X | X |YES: https://github.com/owasp/java-html-sanitizer|
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X |YES: https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project#tab=Roadmap Is quite simple but the project is quite mature based on the code analysis by Openhub
-| [Active leader](active_leader.md) | X | X | YES:promotion through conferesebces such as APPSEC, Book author http://www.amazon.com/Iron-Clad-Java-Building-Secure-Applications/dp/0071835881 with activities ansd views every month : https://groups.google.com/forum/#!forum/owasp-java-html-sanitizer-support |
+| [Active leader](active_leader.md) | X | X |YES:promotion through conferesebces such as APPSEC, Book author http://www.amazon.com/Iron-Clad-Java-Building-Secure-Applications/dp/0071835881 with activities ansd views every month : https://groups.google.com/forum/#!forum/owasp-java-html-sanitizer-support |
 | Standalone Executable/installer-only(Tool projects) | X | X |YES: this is a code, not required
 | [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  |  - | X | X | X |YES: https://github.com/owasp/java-html-sanitizer/issues (15 issues open/40 closed)
 | [Online Documentation](onlinedocumentation.md) | X | X | YES:https://github.com/OWASP/java-html-sanitizer/blob/master/docs/getting_started.md
