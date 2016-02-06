@@ -1,4 +1,6 @@
 Evaluation for Java HTML sanitizer project
+INCUBATOR TO LAB:
+Conclusion: Project seems to comply with all the criteria to become LAB
 
 
 | Requirement   |   Project Idea     |        Incubator   |          Lab       |       Flagship     |     Reason       |
