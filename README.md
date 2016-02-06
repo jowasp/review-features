@@ -51,8 +51,6 @@ http://producingoss.com/en/producingoss.html
 | Embedded User Manual |  -  | - | - | X |
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | - | - | X | X |
 | Developer Manual |  -  | - | - | X |
-| #Issues open vs closed |  -  | - | - | X |
-| Responsiveness leadership  | - | X | X |
 | [Developer Community](developer.md) |  -  | - | - | X |
 | Innovative approach |  -  | - | - | X |
 | [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|  -  | - | X | X |
