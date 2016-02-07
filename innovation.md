@@ -19,5 +19,6 @@ Example:
 * ZAP proxy implements ZEST scripts (no other proxy offers this option) to help testers develop automated pen testing 
 * ZAP was the first to implement Web Sockets (before any commercial proxy had it)
 * ZAP has add-ons development to facilitate collaboration
+* WebGoat was the first 'vulnerable application' hosting OWASP TOP 10 vulenrabilities and training modules, built more than 8 years ago
 
 
