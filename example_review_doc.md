@@ -15,8 +15,7 @@
 |---------------|:------------------:|:------------------:|:------------------:|
 | [Wiki page updated](Wiki-page-updated.md) | X | X | NO: the wiki page is missing multiple items: description, roadmap, introduction and FAQ's. We especially advice to create a better description as it does not seem clear whta is the project about|
 | [Vendor neutral](vendor_neutral.md)  | X | X |NO: Following the guidelines, logo should be displayed on another tab 'acknoledgements'|
-| [> + 1 contributor](contributors.md) |  X | X |YES: It has 2 contributors:Tom Brennan, ProactiveRISK
-Jason Jolo, ProactiveRISK, Jordan Lewis |
+| [> + 1 contributor](contributors.md) |  X | X |YES: It has 2 contributors:Tom Brennan, ProactiveRISK,Jason Jolo, ProactiveRISK, Jordan Lewis |
 | [Open Source License](licenses.md) | X | X |YES: Creative Commons Attribution-NonCommercial-ShareAlike (displayed on wiki page)|
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X |NO:Project has no Roadmap tab displayed. Advise: As the document has a final release maybe it could highlight any next plans in the future|
 | [Active leader](active_leader.md) | X | X | YES: Project leader is promoting project through social media & chapter meetings |
