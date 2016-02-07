@@ -11,4 +11,4 @@ You should promote your project through the OWASP channels as well as by outside
  https://en.wikipedia.org/wiki/Technology_roadmap
  
 #Roadmap in case of older projects (classified as incubators/LAB)
-Some projects have been in the incubator stage for quite long period of time, however, they have developed a quite stable code source and project features. In this case, they project migh have less need for a more detailed roadmap. It is important that the reviewer can analyze specific situations, especially when a project has a quite stable release and no need to continue develop new features. 
+Some projects have been in the incubator stage for quite long period of time, however, they have developed a quite stable code source and project features. In this case, the project migh have less need for a more detailed roadmap. It is important that the reviewer can analyze specific situations, especially when a project has a quite stable release and no need to continue develop new features. 
