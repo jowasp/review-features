@@ -50,7 +50,7 @@ http://producingoss.com/en/producingoss.html
 | [Online Documentation](onlinedocumentation.md) |  -  | X | X | X |
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | - | - | X | X |
 | [Developer Community](developer.md) |  -  | - | - | X |
-| Innovative approach |  -  | - | - | X |
+| [Innovative approach](innovation.md) |  -  | - | - | X |
 | [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)|  -  | - | X | X |
 | [Alpha Release](alpha_release.md)|  - | X | - | - |
 | Beta Release |  -  | - | X | - |
