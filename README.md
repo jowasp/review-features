@@ -1,5 +1,12 @@
-# OWASP Review requirements per Category
-The following table provides an overview of the required features that determine when an Code/Tool OWASP project belongs to a certain graduation criteria. 
+# OWASP Review Requirements Per Project Category
+The following table provides an overview of the indicators that determine when an Code/Tool OWASP project belongs to a certain maturity level. This table is a basic guideline for the reviewer to establish how to classify an OWASP project. It is not 'black/white' checklist. The reviewer should use his/her judgement to analyze the specific situation of each project.
+The most important indicators to keep in mind are:
+* User feedback: Because determines user adoption and based on the feedback, reviewer can actually establish code maturity level by looking at (positive/negative) feedback
+* Industry recognition: A project that has community recognition , such as being selected as speaker or trainier in important community conferences, shows that the project has reached also some quality and uniqueness level due to the level of requirements to be accepted (see for example speaker requirements: https://www.blackhat.com/us-15/call-for-papers.html)
+* Active leadership: A project leader involved in the development and promotion of a projects shows a level of commitment to it. This is quite important to establish the potential continuity of a project.
+
+These indicators provide a signal of maturity level regaridng user adoption of a project and should, at all times, be the highest and important indicators to establish community adoption and maturity level.
+The reviewer is not required to test the project , such as to confirm the if the project builds correctly, howeverr, having some experience as developer/software programmer is advisble in order to look at clear indicators that the project has a certain code quality. 
 
 The 'X' simbolize  a required requirement for that category.'-' Symbolizes that requirement is not needed for that category
 
@@ -9,18 +16,6 @@ is broken down into the following stages
 ###Project Idea:
 
 During this phase, a potential project leader promotes his project idea without a define roadmap or plan. No requirements are needed during this phase
-
-###Incubator Projects: 
-
-OWASP Incubator projects represent the experimental playground where projects are still being designed, ideas are still being proven, and development is still underway. The “OWASP Incubator” label allows OWASP consumers to readily identify a project’s maturity; moreover, the label allows project leaders to leverage the OWASP name while their project is still maturing. OWASP Incubator projects are given a place on the OWASP Projects Portal to leverage the organizations' infrastructure, and establish their presence and project history.
-
-###Lab Projects: 
-
-OWASP Labs projects represent projects that have produced a deliverable of significant value. Leaders of OWASP Labs projects are expected to stand behind the quality of their projects as these projects have matured to the point where they are accepted by a significant portion of the OWASP community. While these projects are typically not production ready, the OWASP community expects that an OWASP Labs project leader is producing releases that are ready for mainstream usage. OWASP Labs Projects are meant to be the collection of established projects that have gained community support and acclaim by undergoing the project review process.
-
-###Flagship Projects: 
-
-The OWASP Flagship designation is given to projects that have demonstrated superior maturity, established quality, and strategic value to OWASP and application security as a whole. Eligible projects are selected from the OWASP Labs project pool. This selection process generally ensures that there is only one project of each type covering any particular security space. OWASP Flagship projects represent projects that are not only mature, but are also projects that OWASP as an organization provides direct support to maintaining. The core mission of OWASP is to make application security visible and so as an organization, OWASP has a vested interest in the success of its Flagship projects. Since Flagship projects have such high visibility, these projects are expected to uphold the most stringent requirements of all OWASP Projects.
 
 (THIS TABLE IS IN PROGRESS)
 
