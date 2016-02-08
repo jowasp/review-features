@@ -46,7 +46,7 @@ http://producingoss.com/en/producingoss.html
 | [Outlined Roadmap](outlined_roadmap.md)  |  - | X | X | X |
 | [Active leader](active_leader.md) |  -  | - | X | X |
 | Standalone Executable/installer-only(Tool projects) |  -  | - | X | X |
-| [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  |  - | X | X | X |
+| [Presence of Bug Tracking system](bugtrackingindicator.md)  |  - | X | X | X |
 | [Online Documentation](onlinedocumentation.md) |  -  | X | X | X |
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | - | - | X | X |
 | [Developer Community](developer.md) |  -  | - | - | X |
