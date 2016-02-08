@@ -1,4 +1,4 @@
-#Developer Forum/Wiki/Mailing list
+#Developer or Contributor Forum/Wiki/Mailing list
 
 Well established and mature FOSS projects charaterize themselves for having a Developer or Contributor community, and working towards building it. As part of their sustainability and grow, FOSS projects encourage volunteer recruiting and participation 
 
