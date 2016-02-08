@@ -1,5 +1,5 @@
 # OWASP Review: Indicators Per Project Category
-The following table provides an overview of the indicators that determine when an Code/Tool OWASP project belongs to a certain maturity level. This table is a basic guideline for the reviewer to establish how to classify an OWASP project. It is not 'black/white' checklist. The reviewer should use his/her judgement to analyze the specific situation of each project. The most important indicators to keep in mind are:
+The following table provides an overview of the indicators that determine when an Code/Tool OWASP project belongs to a certain maturity level. This table is a basic guideline for the reviewer to establish how to classify an OWASP project and is based on community feedback a known methodologies for establishing sucessfull FOSS projects . It is not 'black/white' checklist. The reviewer should use his/her judgement to analyze the specific situation of each project. The most important indicators to keep in mind are:
 * <b>User feedback</b>: Because determines user adoption and based on the feedback, reviewer can actually establish code maturity level by looking at (positive/negative) feedback
 * <b>Industry recognition</b>: A project that has community recognition , such as, appearing in important news outlets, being selected as speaker or trainier, in important security conferences, shows that the project has reached also some quality and uniqueness level due to the level of requirements to be accepted (see for example speaker requirements: https://www.blackhat.com/us-15/call-for-papers.html) or the kind of information quite relevant to the subject, important enough to called the attention of the press
 * <b>Active leadership</b>: A project leader involved in the development and promotion of a project shows a level of commitment to it. This is quite important to establish the potential continuity and of a project.
@@ -11,6 +11,7 @@ These above indicators provide a signal of maturity level regarding user adoptio
 
 * '-' Symbolizes that requirement is not needed for that category
 
+##Substantiation
 A review should at all times be propelry substantiated, with a conclusion why the reviewer considers that it complies with a criteria or not. The following are some examples for Code and Documentation reviews:
 https://gitprint.com/jowasp/review-features/blob/master/example_review.md
 https://gitprint.com/jowasp/review-features/blob/master/example_review_doc.md
