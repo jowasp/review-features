@@ -5,19 +5,12 @@ The most important indicators to keep in mind are:
 * Industry recognition: A project that has community recognition , such as being selected as speaker or trainier in important community conferences, shows that the project has reached also some quality and uniqueness level due to the level of requirements to be accepted (see for example speaker requirements: https://www.blackhat.com/us-15/call-for-papers.html)
 * Active leadership: A project leader involved in the development and promotion of a projects shows a level of commitment to it. This is quite important to establish the potential continuity of a project.
 
-These indicators provide a signal of maturity level regaridng user adoption of a project and should, at all times, be the highest and important indicators to establish community adoption and maturity level.
-The reviewer is not required to test the project , such as to confirm the if the project builds correctly, howeverr, having some experience as developer/software programmer is advisble in order to look at clear indicators that the project has a certain code quality. 
+These indicators provide a signal of maturity level regaridng user adoption of a project and should, at all times, be the highest and important indicators to establish community adoption.
+The reviewer is not required to test the project , such as to confirm the if the project builds correctly, however, having some experience as developer/software programmer is advasible in order to look for clear signals of quality. 
 
-The 'X' simbolize  a required requirement for that category.'-' Symbolizes that requirement is not needed for that category
+* 'X' simbolize  a required requirement for that category.
 
-##The OWASP Project Lifecycle:
-
-is broken down into the following stages
-###Project Idea:
-
-During this phase, a potential project leader promotes his project idea without a define roadmap or plan. No requirements are needed during this phase
-
-(THIS TABLE IS IN PROGRESS)
+* '-' Symbolizes that requirement is not needed for that category
 
 Recommended reading:
 Qualipso Project: Quality Recommendations for FLOSS development processes
@@ -30,7 +23,7 @@ Producing Open Source Software: How to Run a Successful Free Software Project
 Karl Fogel
 http://producingoss.com/en/producingoss.html
 
-| Requirement   |   Project Idea     |        Incubator   |          Lab       |       Flagship     |
+| Requirement/Indicator   |   Project Idea     |        Incubator   |          Lab       |       Flagship     |
 |---------------|:------------------:|:------------------:|:------------------:|:------------------:|
 | [Low, Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  - |  - | X | X |
 | [Wiki page updated](Wiki-page-updated.md) |  - | X | X | X |
