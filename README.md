@@ -56,5 +56,5 @@ http://producingoss.com/en/producingoss.html
 | Beta Release |  -  | - | X | - |
 | Production Release |  -  | - | - | X |
 | Use of Unit/Test cases |  -  | - | - | X |
-| [Active mailing list](active_mailinglist.md) |  -  | - | X | X |
+| [User feedback](active_mailinglist.md) |  -  | - | X | X |
 | [External References/Industry Recognition](industry_recognition.md) |  -  | - | X | X |
