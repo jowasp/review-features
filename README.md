@@ -1,4 +1,4 @@
-# OWASP Review Requirements Per Project Category
+# OWASP Review: Indicators Per Project Category
 The following table provides an overview of the indicators that determine when an Code/Tool OWASP project belongs to a certain maturity level. This table is a basic guideline for the reviewer to establish how to classify an OWASP project. It is not 'black/white' checklist. The reviewer should use his/her judgement to analyze the specific situation of each project.
 The most important indicators to keep in mind are:
 * User feedback: Because determines user adoption and based on the feedback, reviewer can actually establish code maturity level by looking at (positive/negative) feedback
