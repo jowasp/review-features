@@ -28,6 +28,6 @@
 | Active mailing list | X | - | No: Project has very low mailing activity and participation. Just 2 emails sent by the Project leader (see http://lists.owasp.org/pipermail/owasp_incident_response_project/) |
 | [Content Traffic](document_criteria.md) | X | - | NOT FOUND: We dont have the #times document has been downloaded |
 | [External References/Industry Recognition](industry_recognition.md) | X | - | NOT FOUND|
-| [Format & Branding](document_criteria.md) | X | X | NOT APPLICABLE FOR LAB|
+| [Format & Branding](document_criteria.md) | - |- | NOT APPLICABLE FOR LAB|
 
 
