@@ -11,6 +11,10 @@ These above indicators provide a signal of maturity level regarding user adoptio
 
 * '-' Symbolizes that requirement is not needed for that category
 
+A review should at all times be propelry substantiated about why or not the reviewer considers that it complies with a criteria or not. The following are some examples for code and Documentation reviews:
+https://gitprint.com/jowasp/review-features/blob/master/example_review.md
+https://gitprint.com/jowasp/review-features/blob/master/example_review_doc.md
+
 Recommended reading:
 Qualipso Project: Quality Recommendations for FLOSS development processes
 http://qualipso.icmc.usp.br/files/Quality.recommendations.for_.FLOSS_.development.processes.pdf
