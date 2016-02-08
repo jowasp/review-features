@@ -2,7 +2,7 @@
 The following table provides an overview of the indicators that determine when an Code/Tool OWASP project belongs to a certain maturity level. This table is a basic guideline for the reviewer to establish how to classify an OWASP project. It is not 'black/white' checklist. The reviewer should use his/her judgement to analyze the specific situation of each project.
 The most important indicators to keep in mind are:
 * User feedback: Because determines user adoption and based on the feedback, reviewer can actually establish code maturity level by looking at (positive/negative) feedback
-* Industry recognition: A project that has community recognition , such as being selected as speaker or trainier in important community conferences, shows that the project has reached also some quality and uniqueness level due to the level of requirements to be accepted (see for example speaker requirements: https://www.blackhat.com/us-15/call-for-papers.html)
+* Industry recognition: A project that has community recognition , such as being selected as speaker or trainier in important security conferences, shows that the project has reached also some quality and uniqueness level due to the level of requirements to be accepted (see for example speaker requirements: https://www.blackhat.com/us-15/call-for-papers.html)
 * Active leadership: A project leader involved in the development and promotion of a projects shows a level of commitment to it. This is quite important to establish the potential continuity of a project.
 
 These indicators provide a signal of maturity level regaridng user adoption of a project and should, at all times, be the highest and important indicators to establish community adoption.
