@@ -13,8 +13,8 @@ These above indicators provide a signal of maturity level regarding user adoptio
 
 ##Substantiation
 A review should at all times be propelry substantiated, with a conclusion why the reviewer considers that it complies with a criteria or not. The following are some examples for Code and Documentation reviews:
-https://gitprint.com/jowasp/review-features/blob/master/example_review.md
-https://gitprint.com/jowasp/review-features/blob/master/example_review_doc.md
+* Code:  https://gitprint.com/jowasp/review-features/blob/master/example_review.md
+* Tools: https://gitprint.com/jowasp/review-features/blob/master/example_review_doc.md
 
 Recommended reading:
 Qualipso Project: Quality Recommendations for FLOSS development processes
