@@ -31,7 +31,7 @@ You can click on hyperlink to verify criteria and substantiation provided by rev
 | [Innovative approach](innovation.md) |  - | X | NOT REQUIRED FOR LAB  |
 | [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: https://github.com/jowasp/skf-flask/releases|
 | Production Release | - | X | YES [Not required for LAB] : Code seems very mature: has a young, but established codebase  maintained by a large development team with stable Y-O-Y commits (https://www.openhub.net/p/skf-flask)|
-| Use of Unit/Test cases | - | X | NOT REQUIRED FOR LAB: project leader can provide more info on this |
+| Use of Unit/Test cases | - | - | NOT REQUIRED FOR LAB: project leader can provide more info on this |
 | [User Feedback](active_mailinglist.md) | X | X | YES:A special portal for users https://skf.readme.io/discuss/?sort=newest |
 | [External References/Industry Recognition](industry_recognition.md) | X | X | YES:https://www.securityknowledgeframework.org/talks.php Project has been selected to participate many important security conferences |
 
