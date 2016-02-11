@@ -25,11 +25,11 @@
 | [Online Documentation](onlinedocumentation.md) | X | X | YES:https://skf.readme.io on their website and quite ample|
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you'll be testing your code in minutes! SKF Build details: https://travis-ci.org/blabla1337/skf-flask)|
 | [Developer Community](developer.md) | - | X | NOT REQUIRED FOR LAB, but project has a scrum app for contributors:https://waffle.io/blabla1337/skf-flask ? project leaders can provide more info on that |
-| Innovative approach |  - | X | NOT REQUIRED FOR LAB  |
+| [Innovative approach](innovation.md) |  - | X | NOT REQUIRED FOR LAB  |
 | [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: https://github.com/jowasp/skf-flask/releases|
 | Production Release | - | X | YES [Not required for LAB] : Code seems very mature: has a young, but established codebase  maintained by a large development team with stable Y-O-Y commits (https://www.openhub.net/p/skf-flask)|
 | Use of Unit/Test cases | - | X | NOT REQUIRED FOR LAB: project leader can provide more info on this |
-| User Feedback | X | X | YES:A special portal for users https://skf.readme.io/discuss/?sort=newest |
+| [User Feedback](active_mailinglist.md) | X | X | YES:A special portal for users https://skf.readme.io/discuss/?sort=newest |
 | [External References/Industry Recognition](industry_recognition.md) | X | X | YES:https://www.securityknowledgeframework.org/talks.php Project has been selected to participate many important security conferences |
 
 
