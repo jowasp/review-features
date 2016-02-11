@@ -1,4 +1,4 @@
-##Evaluation for OWASP Security Knowledge Framework
+##Evaluation for OWASP Security Knowledge Framework [preview]
 * Date: February 10th, 2016
 * Graduation Type: INCUBATOR TO LAB
 * Reviewer: @jctechno
