@@ -1,4 +1,5 @@
 ##Evaluation for OWASP Security Knowledge Framework [preview]
+Please read the criteria for projects :https://github.com/jowasp/review-features/blob/master/README.md
 * Date: February 10th, 2016
 * Graduation Type: INCUBATOR TO LAB
 * Reviewer: @jctechno
@@ -9,7 +10,7 @@
  * Nice support portal for users and Online demo
  * Quite well define roadmap using a digital scrumboard for contributor
 
-
+You can click on hyperlink to veryfy criteria and substantiation provided by reviewer
 | Indicator |  Lab  | Ready?|Reason|
 |-----------|:-----:|:-----:|------|
 | [Low, Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|X | X |`https://www.openhub.net/p/skf-flask: Project has very high activity:has had 695 commits made by 18 contributors representing 14,381 lines of code/is mostly written in Python /with a very low number of source code comments/has a young, but established codebase/maintained by a large development team withstable Y-O-Y commits/ took an estimated 4 years of effort (COCOMO model)/starting with its first commit in January, 2015 /ending with its most recent commit 12 days ago`|
