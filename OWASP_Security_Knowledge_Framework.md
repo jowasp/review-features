@@ -4,9 +4,9 @@
 * Reviewer: @jctechno
 * Conclusion:  Project seems to comply with all the criteria to become LAB. 
  * It has a very strong development compared to Flagship projects, such as Very High activity development level (openhub).
- * High participation in relevant security conferences, 
+ * High participation in relevant security conferences
  * high amount of downloads and community interest.
- * Nice support portal for users
+ * Nice support portal for users and Online demo
  * Quite well define roadmap using a digital scrumboard for contributor
 
 
