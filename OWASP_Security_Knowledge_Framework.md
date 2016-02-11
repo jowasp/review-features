@@ -10,9 +10,9 @@
  * Quite well define roadmap using a digital scrumboard for contributor
 
 
-| Requirement   |   Lab Indicator    |       Complies?    |     Reason       |
-|---------------|:------------------:|:------------------:|:------------------:|
-| [Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  X | X |https://www.openhub.net/p/skf-flask: Project has very high activity:has had 695 commits made by 18 contributors representing 14,381 lines of code/is mostly written in Python /with a very low number of source code comments/has a young, but established codebase/maintained by a large development team with stable Y-O-Y commits/ took an estimated 4 years of effort (COCOMO model) /starting with its first commit in January, 2015 /ending with its most recent commit 12 days ago|
+| Indicator     |   Lab     |       Complies?    |     Reason         |
+|---------------|:---------:|:------------------:|:------------------:|
+| [Low, Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  X | X |https://www.openhub.net/p/skf-flask: Project has very high activity:has had 695 commits made by 18 contributors representing 14,381 lines of code/is mostly written in Python /with a very low number of source code comments/has a young, but established codebase/maintained by a large development team with stable Y-O-Y commits/ took an estimated 4 years of effort (COCOMO model) /starting with its first commit in January, 2015 /ending with its most recent commit 12 days ago|
 | [Wiki page updated](Wiki-page-updated.md) | X | X | Partially: A lot of information such as news is not on the Wiki but other sections, also a lot of information on the Project website|
 | [Vendor neutral](vendor_neutral.md)  | X | X |YES: No logo appears on their wiki page|
 | [> + 1 contributor](contributors.md) |  X | X |YES: It has 16 contributors(see openhub: https://www.openhub.net/p/skf-flask |
@@ -25,9 +25,9 @@
 | [Online Documentation](onlinedocumentation.md) | X | X | YES:https://skf.readme.io on their website and quite ample|
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you'll be testing your code in minutes! SKF Build details: https://travis-ci.org/blabla1337/skf-flask)|
 | [Developer Community](developer.md) | - | X | NOT REQUIRED FOR LAB, but project has a scrum app for contributors:https://waffle.io/blabla1337/skf-flask ? project leaders can provide more info on that |
-| Innovative approach |  - | X | NOT REQUIRED FOR LAB, however the project is one of a kind  |
-| [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: https://github.com/jowasp/skf-flask/releases |
-| Production Release | - | X | YES[Not required for LAB] : Code seems very mature: has a young, but established codebase  maintained by a large development team with stable Y-O-Y commits (https://www.openhub.net/p/skf-flask)|
+| Innovative approach |  - | X | NOT REQUIRED FOR LAB  |
+| [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: https://github.com/jowasp/skf-flask/releases|
+| Production Release | - | X | YES [Not required for LAB] : Code seems very mature: has a young, but established codebase  maintained by a large development team with stable Y-O-Y commits (https://www.openhub.net/p/skf-flask)|
 | Use of Unit/Test cases | - | X | NOT REQUIRED FOR LAB: project leader can provide more info on this |
 | User Feedback | X | X | YES:A special portal for users https://skf.readme.io/discuss/?sort=newest |
 | [External References/Industry Recognition](industry_recognition.md) | X | X | YES:https://www.securityknowledgeframework.org/talks.php Project has been selected to participate many important security conferences |
