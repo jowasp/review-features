@@ -3,7 +3,7 @@
 * Graduation Type: INCUBATOR TO LAB
 * Reviewer: @jctechno
 * Conclusion:  Project seems to comply with all the criteria to become LAB. 
- * It has a very strong development compared to Flagship projects, such as Very High activity development level (openhub).
+ * It has a very strong development compared to Flagship projects, such as Very High activity development activity (openhub).
  * High participation in relevant security conferences
  * high amount of downloads and community interest.
  * Nice support portal for users and Online demo
