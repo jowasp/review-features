@@ -1,6 +1,6 @@
 ##Evaluation for OWASP Security Knowledge Framework [preview]
 Please read the criteria for projects :https://github.com/jowasp/review-features/blob/master/README.md
-You can click on hyperlink to veryfy criteria and substantiation provided by reviewer
+You can click on hyperlink to verify criteria and substantiation provided by reviewer
 
 * Date: February 10th, 2016
 * Graduation Type: INCUBATOR TO LAB
