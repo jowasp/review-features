@@ -7,9 +7,8 @@
 
 | Requirement   |           Lab Indicator      |       Complies?     |     Reason       |
 |---------------|:------------------:|:------------------:|:------------------:|
-| [Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  X | X |https://www.openhub.net/p/skf-flask: Project has very high activity:has had 695 commits made by 18 contributors 
-representing 14,381 lines of code/is mostly written in Python /with a very low number of source code comments/has a young, but established codebase/maintained by a large development team 
-with stable Y-O-Y commits/ took an estimated 4 years of effort (COCOMO model) /starting with its first commit in January, 2015 /ending with its most recent commit 12 days ago
+| [Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|  X | X |https://www.openhub.net/p/skf-flask: Project has very high activity:has had 695 commits made by 18 contributors representing 14,381 lines of code/is mostly written in Python /with a very low number of source code comments/has a young, but established codebase/maintained by a large development team with stable Y-O-Y commits/ took an estimated 4 years of effort (COCOMO model) /starting with its first commit in January, 2015 /ending with its most recent commit 12 days ago|
+| [Wiki page updated](Wiki-page-updated.md) | X | X | Partially as information such as news is not on the Wiki but other sections, also a lot of information on the Project website|
 | [Vendor neutral](vendor_neutral.md)  | X | X |YES: No logo appears on their wiki page|
 | [> + 1 contributor](contributors.md) |  X | X |YES: It has 16 contributors(see openhub: https://www.openhub.net/p/skf-flask |
 | [Open Source License](licenses.md) | X | X |YES: GNU Affero General Public License 3.0  (displayed on wiki page, github and website)|
