@@ -2,7 +2,7 @@
 * Date: February 10th, 2016
 * Graduation Type: INCUBATOR TO LAB
 * Reviewer: @jctechno
-* Conclusion:  Project seems to comply with all the criteria to become LAB
+* Conclusion:  Project seems to comply with all the criteria to become LAB. 
 
 
 | Requirement   |           Lab Indicator      |       Complies?     |     Reason       |
@@ -14,17 +14,18 @@
 | [Open Source License](licenses.md) | X | X |YES: GNU Affero General Public License 3.0  (displayed on wiki page, github and website)|
 | [Open Source Repository](https://www.openhub.net/orgs/OWASP)| X | X |YES: https://github.com/blabla1337/skf-flask|
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X |YES: https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework#tab=Roadmap_and_Getting_Involved Including a Scrum Board :https://waffle.io/blabla1337/skf-flask
-| [Active leader](active_leader.md) | X | X |YES:promotion through confererences such as APPSEC US 2015, DevOpsDays 2015 Amsterdam/ leaders should have a |
-| Standalone Executable/installer-only(Tool projects) | X | X |YES: this is a code, not required
-| [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X |YES: https://github.com/owasp/java-html-sanitizer/issues (15 issues open/40 closed)|
-| [Online Documentation](onlinedocumentation.md) | X | X | YES:https://github.com/OWASP/java-html-sanitizer/blob/master/docs/getting_started.md|
-| [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: through maven (maven project: https://github.com/OWASP/java-html-sanitizer/blob/master/pom.xml)|
-| [Developer Community](developer.md) | - | X | NOT REQUIRED FOR LAB |
+| [Active leader](active_leader.md) | X | X |YES:Promotion through confererences such as APPSEC US 2015,BlackHat EU 2015, DevOpsDays 2015 Conference Amsterdam among many very important conferences: https://www.securityknowledgeframework.org/talks.php|
+| Standalone Executable/installer-only (Tool projects) | X | X |YES: Automated installation with Chef :https://github.com/blabla1337/skf-flask
+| [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X |YES: https://github.com/blabla1337/skf-flask/issues (15 issues open/37 closed)|
+| [Online Documentation](onlinedocumentation.md) | X | X | YES:https://skf.readme.io on their website and quite ample|
+| [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you'll be testing your code in minutes! SKF Build details: https://travis-ci.org/blabla1337/skf-flask)|
+| [Developer Community](developer.md) | - | X | NOT REQUIRED FOR LAB, but project has a scrum app for contributors:https://waffle.io/blabla1337/skf-flask ? project leaders can provide more info on that |
 | Innovative approach |  - | X | NOT REQUIRED FOR LAB |
-| [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: through maven central: v239 at Maven Central |
-| Production Release | - | X | YES: Code seems very mature (code base of 4 years, see openhub for more info)|
-| Use of Unit/Test cases | - | X | NOT FOUND/NOT REQUIRED FOR LAB: project leader can provide more info on this |
-| Active mailing list | X | X | YES: mailing list has 99 posting topics over a period of 2 years |
-| [External References/Industry Recognition](industry_recognition.md) | X | X | YES:MENTIONED IN http://www.amazon.com/Iron-Clad-Java-Building-Secure-Applications/dp/0071835881:"The OWASP Java HTML Sanitizer provides untrusted HTML sanitization. This library is both high performance and low resource utilization. Authored by Mike Samuel. https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project |
+| [Versioning control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)| X | X |YES: https://skf.readme.io v1.0 |
+| Production Release | - | X | YES: Code seems very mature: has a young, but established codebase 
+maintained by a large development team with stable Y-O-Y commits (https://www.openhub.net/p/skf-flask)|
+| Use of Unit/Test cases | - | X | NOT REQUIRED FOR LAB: project leader can provide more info on this |
+| User Feedback | X | X | YES:A special potal for users https://skf.readme.io/discuss/?sort=newest |
+| [External References/Industry Recognition](industry_recognition.md) | X | X | YES:https://www.securityknowledgeframework.org/talks.php Project has been selected into many important security conferences |
 
 
