@@ -24,7 +24,7 @@ You can click on hyperlink to verify criteria and substantiation provided by rev
 | [Outlined Roadmap](outlined_roadmap.md)  | X | X |[YES] (https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework#tab=Roadmap_and_Getting_Involved) [Including a Scrum Board] (https://waffle.io/blabla1337/skf-flask)
 | [Active leaders](active_leader.md) | X | X |YES:Promotion through confererences such as APPSEC US 2015,BlackHat EU 2015, DevOpsDays 2015 Conference Amsterdam, Chapter meetings among many very important conferences: https://www.securityknowledgeframework.org/talks.php|
 | Standalone Executable/installer-only (Tool projects) | X | X |YES: Automated installation with Chef :https://github.com/blabla1337/skf-flask|
-| [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X |YES: https://github.com/blabla1337/skf-flask/issues (15 issues open/37 closed)|
+| [Presence of Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X |YES: https://github.com/blabla1337/skf-flask/issues (15 issues open/37 closed)|
 | [Online Documentation](onlinedocumentation.md) | X | X | YES:https://skf.readme.io on their website and quite ample|
 | [Build Automation](https://en.wikipedia.org/wiki/Build_automation)  | X | X | YES: Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you'll be testing your code in minutes! SKF Build details: https://travis-ci.org/blabla1337/skf-flask)|
 | [Developer Community](developer.md) | - | X | NOT REQUIRED FOR LAB, but project has a scrum app for contributors:https://waffle.io/blabla1337/skf-flask ? project leaders can provide more info on that |
