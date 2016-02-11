@@ -16,7 +16,7 @@ You can click on hyperlink to veryfy criteria and substantiation provided by rev
 | Indicator |  Lab  | Ready?|Reason|
 |-----------|:-----:|:-----:|------|
 | [Low, Moderate to High Activity level](http://blog.openhub.net/about-project-activity-icons/)|X | X |`https://www.openhub.net/p/skf-flask: Project has very high activity:has had 695 commits made by 18 contributors representing 14,381 lines of code/is mostly written in Python /with a very low number of source code comments/has a young, but established codebase/maintained by a large development team withstable Y-O-Y commits/ took an estimated 4 years of effort (COCOMO model)/starting with its first commit in January, 2015 /ending with its most recent commit 12 days ago`|
-| [Wiki page updated](Wiki-page-updated.md) | X | X | Partially: A lot of information such as news is not on the Wiki but other sections, also a lot of information on the Project website|
+| [Wiki page updated](Wiki-page-updated.md) | X | X | Partially: A lot of information such as news is not on [their Wiki](https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework#tab=Main) but other sections, also a lot of information is found on the [Project website](https://www.securityknowledgeframework.org)|
 | [Vendor neutral](vendor_neutral.md)  | X | X |YES: No logo appears on their wiki page|
 | [> + 1 contributor](contributors.md) |  X | X |YES: It has 16 contributors(see openhub: https://www.openhub.net/p/skf-flask |
 | [Open Source License](licenses.md) | X | X |YES: GNU Affero General Public License 3.0  (displayed on wiki page, github and website)|
