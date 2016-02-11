@@ -17,8 +17,8 @@
 | [Vendor neutral](vendor_neutral.md)  | X | X |YES: No logo appears on their wiki page|
 | [> + 1 contributor](contributors.md) |  X | X |YES: It has 16 contributors(see openhub: https://www.openhub.net/p/skf-flask |
 | [Open Source License](licenses.md) | X | X |YES: GNU Affero General Public License 3.0  (displayed on wiki page, github and website)|
-| [Open Source Repository](https://www.openhub.net/orgs/OWASP)| X | X |YES: https://github.com/blabla1337/skf-flask|
-| [Outlined Roadmap](outlined_roadmap.md)  | X | X |YES: https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework#tab=Roadmap_and_Getting_Involved Including a Scrum Board :https://waffle.io/blabla1337/skf-flask
+| [Open Source Repository](https://www.openhub.net/orgs/OWASP)| X | X |[YES](https://github.com/blabla1337/skf-flask)|
+| [Outlined Roadmap](outlined_roadmap.md)  | X | X |[YES] (https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework#tab=Roadmap_and_Getting_Involved) [Including a Scrum Board] (https://waffle.io/blabla1337/skf-flask)
 | [Active leaders](active_leader.md) | X | X |YES:Promotion through confererences such as APPSEC US 2015,BlackHat EU 2015, DevOpsDays 2015 Conference Amsterdam, Chapter meetings among many very important conferences: https://www.securityknowledgeframework.org/talks.php|
 | Standalone Executable/installer-only (Tool projects) | X | X |YES: Automated installation with Chef :https://github.com/blabla1337/skf-flask|
 | [Open Bug Tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system)  | X | X |YES: https://github.com/blabla1337/skf-flask/issues (15 issues open/37 closed)|
